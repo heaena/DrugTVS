@@ -29,7 +29,7 @@ The project includes folders, files that can be roughly summarized as:
 
 
 Next, some specifications will be noticed below:
-   1. Training and testing DTI model:
+ 1. Training and testing DTI model:
      1.1 Input datafile is saved under "./DataProcessed/", the default is called "All_data_inductive.csv".
 
      1.2 It is encouraged to include 3D structural information of protein in the dataset, and it is also the default setting of this project. 
@@ -52,7 +52,7 @@ Next, some specifications will be noticed below:
      The downloaded ProtTXL folder, in our case, prot_t5_xl_uniref50, should be placed under this project.
 
     
-    2. Virtual Screening:
+ 2. Virtual Screening:
      2.1 drug-target template dataset should be prepared based on the specific disease or targets you're interested. 
      The datafile should be in .csv format and should at least include columns named as: <"PDB_ID","Ligand_SMILES","label","het_name","source">. 
      
