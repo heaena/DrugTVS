@@ -1,0 +1,143 @@
+PDB_ID,Ligand_SMILES,measure,affinity_nM,label,het_name,source
+"5E3G	",O=c1[nH]c2[nH]c(=S)[nH]c(=O)c2[nH]1,Kd>50uM,50000,0,,PDBbind
+"5EWY	",O=C(O)CCCn1ccc2nc(=O)c3cc(F)ccc3c-2c1,Kd,50000,0,,PDBbind
+"5DRQ	",CC(C)([NH3+])[C@H](NC(=O)c1ccc(C#CC#Cc2ccc(N)cc2)cc1)C(=O)NO,Ki,0.012,1,,PDBbind
+"6CDL	",CC(C)CN(C[C@@H](O)[C@H](Cc1cc(F)cc(F)c1)NC(=O)O[C@H]1C[C@H]2CO[C@H]3OC=C[C@@H]1[C@@H]23)S(=O)(=O)c1ccc2nc(NC3CC3)sc2c1,Ki,0.012,1,,PDBbind
+"1HVK	",CC(C)[C@H](NC(=O)N(C)Cc1ccccn1)C(=O)N[C@@H](Cc1ccccc1)[C@H](O)[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)N(C)Cc1ccccn1)C(C)C,Ki,0.011,1,,PDBbind
+"1M7Y	",Cc1ncc(COP(=O)(O)O)c(C[NH2+]C(/C=C/OCC[NH3+])C(=O)O)c1O,Kd,0.011,1,,PDBbind
+"2JB6	",CC(/C=C/C=C1/N(CCS(=O)(=O)O)c2ccc(S(=O)(=O)O)cc2C1(C)C)=C\C=C\C1=[N+](CCS(=O)(=O)O)c2ccc(S(=O)(=O)O)cc2C1(C)C,Kd,0.011,1,,PDBbind
+"5NN0	",C[NH+](C)CCN(C[C@@H]1CCC[N@H+](C2Cc3ccccc3C2)C1)C(=O)c1ccc2ccccc2c1,Kd,0.011,1,,PDBbind
+"1DIS	",COc1cc(Cc2cnc(N)nc2N)cc(OCCC[C@@H](CCC(=O)O)C(=O)O)c1Br,Ki<0.01nM,0.01,1,,PDBbind
+"4ASE	",COc1cc2nccc(Oc3ccc(NC(=O)Nc4cc(C)on4)c(Cl)c3)c2cc1OC,Ki,0.01,1,,PDBbind
+"4KB9	",COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@H]2CCC[C@H]3O[C@@H]4OCC[C@@H]4[C@@H]23)cc1,Ki,0.01,1,,PDBbind
+"4QVX	",C[NH+](C)CC#Cc1ccc(OCCCc2sc(N3CCc4cccc(C(=O)Nc5nc6ccccc6s5)c4C3)nc2C(=O)O)c(F)c1,Ki<0.01nM,0.01,1,,PDBbind
+"5BS4	",C[NH2+][C@H]1CO[C@@H]2OC[C@H](OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3)[C@@H]21,Kd,0.0099,1,,PDBbind
+"4N70	",C[C@H]1CN(c2ccncc2NC(=O)c2ccc(F)c(-c3c(F)cccc3F)n2)C[C@@H]([NH3+])[C@@H]1O,Ki,0.001,1,,PDBbind
+"3O9C	",CC[C@H](C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CO[C@H]2OCC[C@H]21)S(=O)(=O)c1ccc2c(c1)OCO2,Ki,0.0009,1,,PDBbind
+"2I0D	",COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CN(c3cccc(C(C)=O)c3)C(=O)O2)cc1,Ki,0.0008,1,,PDBbind
+"3O9H	",CCC(CC)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CO[C@H]2OCC[C@H]21)S(=O)(=O)c1ccc2c(c1)OCO2,Ki,0.0008,1,,PDBbind
+"6C8X	",CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CO[C@H]2OCC[C@H]21)S(=O)(=O)c1ccc(B(O)O)cc1,Ki,0.0005,1,,PDBbind
+"2XUP	",Nc1ccc2c(c1)C(c1ccccc1)N(CCCCCCc1cnnn1CCNc1c3ccccc3nc3ccccc13)c1cc(N)ccc1-2,Kd,0.00041,1,,PDBbind
+"3O9F	",CCC(CC)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CO[C@H]2OCC[C@H]21)S(=O)(=O)c1ccc(OC)cc1,Ki,0.0002,1,,PDBbind
+"1RBO	",O=C(O)[C@@](O)(COP(=O)(O)O)[C@@H](O)[C@H](O)COP(=O)(O)O,Kd,0.00019,1,,PDBbind
+"1EOL	",CCCC[C@H](NC(=O)[C@H]1CCCCN1C(=O)[C@@H]([NH3+])CCCNC(=N)N)C(=O)NCCCCCCCCCCCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CCC(=O)O)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)O)[C@@H](C)CC,Ki,3.8e-05,1,,PDBbind
+"1EOJ	",CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CC(=O)O)NC(=O)CCCCCCCCCCCNC(=O)[C@H](Cc1cccs1)NC(=O)[C@H]1CCCCN1C(=O)[C@@H]([NH3+])CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)O,Ki,1.7e-05,1,,PDBbind
+"1AMN	",C[N+](C)(C)c1cccc(C(O)(O)C(F)(F)F)c1,Ki,1.5e-05,1,,PDBbind
+"7CPA	",CC(C)[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)OCc1ccccc1)[P@](=O)(O)O[C@@H](Cc1ccccc1)C(=O)O,Ki,1.1e-05,1,,PDBbind
+"2XUF	",Nc1ccc2c(c1)C(c1ccccc1)N(CCCCCCc1cn(CCNc3c4ccccc4nc4ccccc34)nn1)c1cc(N)ccc1-2,Kd,4.1e-06,1,,PDBbind
+"5F5K	",S(CCC(NC(=O)C(NC(=O)C(N)C(C)C)CCCNC(=[NH2+])N)C(=O)NC(C=O)C)C,ic50,2900,0,"ACE ARG LYS VAL ARG MET 5XU	",MOAD
+"4JVM	",CC(C)(c1cc(c(c(c1)Br)O)Br)c2cc(c(c(c2)Br)O)Br,ic50,33,1,"XDI	",MOAD
+"4JVN	",c1cc(c(cc1Br)Br)Oc2ccc(c(c2Br)O)Br,ic50,23,1,"YUG	",MOAD
+"3UJS	",C[C@H](C(=O)O)OP(=O)(O)O,Ki,400000,0,"0V5	",MOAD
+"2F3Q	",COC(=O)C(=O)N[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O,Ki,220000,0,"6GP	",MOAD
+"4YUA	",c1c2c-3c(c(c1O)O)OC(=O)c4c3c(c(c(c4)O)O)OC2=O,Ki,13400,0,"REF	",MOAD
+"2IEI	",c1ccc2c(c1)C[C@@H](C(=O)N2CC(=O)NCCO)NC(=O)c3cc4cc(sc4[nH]3)Cl,ic50,121,1,"FRX	",MOAD
+"1WW2	",CC(=O)N[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O,Ki,32000,0,"NBG	",MOAD
+"6S4R	",c1ccc2cc(ccc2c1)c3nc(cs3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,26200,0,"KVH	",MOAD
+"3GPB	",C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)O,Kd,9500000,0,"G1P	",MOAD
+"5OX1	",COc1ccc(cc1)c2[nH]nc(n2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,1950,0,"B1K	",MOAD
+"1XC7	",COP(=O)(N[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)OC,Ki,5100000,0,"GL6	",MOAD
+"5LRC	",c1ccc(cc1)c2[nH]c(nn2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,7000,0,"73E	",MOAD
+"1Z62	",C1C=CC=C2C1=N/C(=C3/C4=CC=CCC4=NC3=O)/C2=N/OCC(=O)O,Ki,16000,0,"IAA	",MOAD
+"5OWZ	",c1cc(ccc1c2[nH]c(nn2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C(F)(F)F,Ki,111000,0,"B0Z	",MOAD
+"5LRF	",c1ccc2cc(ccc2c1)c3nc([nH]n3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,410,1,"KS3	",MOAD
+"6F3J	",c1cc(ccc1c2ccc(cc2)C(=O)O)c3[nH]c(nn3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,4420,0,"CKQ	",MOAD
+"1GG8	",C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)C(=O)N)O)O)O)O,Ki,1000000,0,"GLG	",MOAD
+"5LRD	",Cc1ccc(cc1)c2[nH]c(nn2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,1700,0,"KS2	",MOAD
+"6QA6	",c1ccc2cc(ccc2c1)C3=N[C@]4([C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C(=O)N3,Ki,2110,0,"HT8	",MOAD
+"1P4J	",C([C@@H]1[C@H]([C@@H]([C@H]([C@@](O1)(C(=O)N)O)O)O)O)O,Ki,880000,0,"CBF	",MOAD
+"2GPB	",C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,Ki,2000000,0,"GLC	",MOAD
+"6F3S	",c1ccc(cc1)c2ccc(cc2)c3[nH]c(nn3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,2380,0,"CKW	",MOAD
+"2F3P	",C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)NC(=O)C(=O)O)O)O)O)O,Ki,710000,0,"4GP	",MOAD
+"5OX3	",c1cc(ccc1c2nc([nH]n2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O,Ki,2900,0,"B1N	",MOAD
+"6S4P	",c1ccc2cc(ccc2c1)c3csc(n3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,158000,0,"KVE	",MOAD
+"1XKX	",Cc1ccc2c(c1)nc([nH]2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,8600,0,"IMK	",MOAD
+"6S4K	",c1ccc(cc1)c2csc(n2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,310000,0,"KVW	",MOAD
+"1WV1	",Cc1c(cccc1OCCCCC(=O)O)NC(=O)NC(=O)c2ccc(cc2Cl)Cl,ic50,2800,0,"BN5	",MOAD
+"6S51	",c1ccc(cc1)c2nc(cs2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,326000,0,"KVQ	",MOAD
+"6F3L	",c1cc(cc2c1cc(cc2)C(=O)O)c3nc([nH]n3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,5050,0,"CJW	",MOAD
+"6Y5C	",Cc1ccc(cc1)C2=CC(=O)c3c(cc(cc3O2)O)O,Ki,21360,0,"O9T	",MOAD
+"6R0H	",c1cc(cc(c1)C(=O)N[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)c3ccc(cc3)F,Ki,56100,0,"JN2	",MOAD
+"2F3S	",CCOC(=O)C(=O)N[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O,Ki,920000,0,"7GP	",MOAD
+"6Y55	",Cc1cccc(c1)C2=CC(=O)c3c(cc(cc3O2)O)O,Ki,2230,0,"O9Q	",MOAD
+"6QA8	",c1ccc(cc1)C2=N[C@]3([C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C(=O)N2,Ki,9000,0,"HTE	",MOAD
+"5JTT	",c1ccc(cc1)c2cnc([nH]2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,280,1,"6MY	",MOAD
+"5OX0	",c1cc(ccc1c2nc([nH]n2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)[N+](=O)O,Ki,33500,0,"B1H	",MOAD
+"1P4H	",CC(=O)N[C@]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C(=O)N,Ki,310000,0,"CR6	",MOAD
+"5MEM	",c1ccc2c(c1)C(=O)c3cc(ccc3N2)NC4=NC(=O)N(C=C4)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O,Ki,71,1,"7LS	",MOAD
+"4YI3	",c1ccc(cc1)c2ccc(cc2)CCC(=O)NC(=O)N[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,Ki,4950,0,"4D0	",MOAD
+"5JTU	",c1ccc2cc(ccc2c1)c3cnc([nH]3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,Ki,31,1,"6NE	",MOAD
+"5OX4	",c1cc(ccc1c2[nH]c(nn2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)N,Ki,670,1,"B1W	",MOAD
+"5YD5	",O=C(NC(C(=O)NC(C(=O)N1C(C(=O)[O-])CCC1)CCC(=O)[O-])CO)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(N)C(CC)C)C)Cc1ccc(O)cc1)Cc1ccc(O)cc1)C(O)C,Kd,1300,0,"ASP ILE ALA TYR TYR THR SER GLU PRO	",MOAD
+"6HRO	",Cc1c(c([nH]n1)c2ccc(cc2O)OCC[NH+]3CCC(CC3)C(=O)N)c4ccc(cc4)Cl,ic50,50,1,"GKZ	",MOAD
+"6HS4	",c1ccc(cc1)c2cn[nH]c2c3ccc(cc3O)OCCN4CCC(CC4)C(=O)N,ic50,3100,0,"GON	",MOAD
+"6WPL	",CC1([C@H]2CC(=O)[C@@]1(C[C@H]2O)C)C,Kd,702,1,"CAH	",MOAD
+"4K76	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1N(C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(N)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc2c3c([nH]c2)cccc3)CCC1)C(O)C)C(O)C)CCCNC(=[NH2+])N)CC(C)C,Ki,4500,0,"ALA ASN SER ARG TRP PRO THR THR ARG LEU	",MOAD
+"4NMT	",FC(F)(F)C(=O)NCCCCC(NC(=O)C(NC(=O)C(NC(=O)C1N(C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc2c3c([nH]c2)cccc3)CCC1)C(O)C)CO)C(=O)NC(C(=O)[O-])C(CC)C,Kd,22300,0,"ALA ASN SER ARG TRP PRO THR SER FAK ILE	",MOAD
+"4K78	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc1c2c([nH]c1)cccc2)CCC(=O)N)CC(=O)[O-])C(O)C)CCCNC(=[NH2+])N)CC(C)C,Ki,16200,0,"ALA ASN SER ARG TRP GLN ASP THR ARG LEU	",MOAD
+"4K6Y	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc1c2c([nH]c1)cccc2)CCC(=O)N)C(O)C)CO)C(CC)C)C(CC)C,Ki,14800,0,"ALA ASN SER ARG TRP GLN THR SER ILE ILE	",MOAD
+"4JOR	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])CCCNC(=[NH2+])N)CC(C)C)CCC(=O)N)CCCNC(=[NH2+])N)CCCNC(=[NH2+])N)CCCNC(=[NH2+])N)CCC(=O)[O-])C(O)C)CCC(=O)N)C(C)C,Ki,490000,0,"ARG LEU GLN ARG ARG ARG GLU THR GLN VAL	",MOAD
+"4NMO	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1N(C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc2c3c([nH]c2)cccc3)CCC1)C(O)C)CO)CCCCNC(=O)C)C(CC)C,Kd,39500,0,"ALA ASN SER ARG TRP PRO THR SER ALY ILE	",MOAD
+"4NMP	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1N(C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc2c3c([nH]c2)cccc3)CCC1)CCCCNC(=O)C)CO)C(CC)C)C(CC)C,Kd,122000,0,"ALA ASN SER ARG TRP PRO ALY SER ILE ILE	",MOAD
+"4NMQ	",O=C(NC(C(=O)NC(C(=O)NC(C=O)C(CC)C)C(CC)C)CO)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc1c2c([nH]c1)cccc2)CCCCNC(=O)C)C(O)C,Kd,64599.99999999999,0,"ALA ASN SER ARG TRP ALY THR SER ILE ILE	",MOAD
+"4NMV	",Brc1ccc(C(=O)NCCCCC(NC(=O)C(NC(=O)C(NC(=O)C2N(C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc3c4c([nH]c3)cccc4)CCC2)C(O)C)CO)C(=O)NC(C(=O)[O-])C(CC)C)cc1,Kd,20000,0,"ALA ASN SER ARG TRP PRO THR SER 2KP ILE	",MOAD
+"4NMS	",Fc1ccc(C(=O)NCCCCC(NC(=O)C(NC(=O)C(NC(=O)C2N(C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C([NH3+])C)CC(=O)N)CO)CCCNC(=[NH2+])N)Cc3c4c([nH]c3)cccc4)CCC2)C(O)C)CO)C(=O)NC(C(=O)[O-])C(CC)C)cc1,Kd,27900,0,"ALA ASN SER ARG TRP PRO THR SER 2KK ILE	",MOAD
+"7C6B	",c1cc(cc(c1)c2c3c(ncn2)n(cn3)[C@H]4[C@@H]([C@@H]([C@H](O4)COP(=O)(O)O)O)O)CCC(=O)O,Kd,42000,0,"K2R	",MOAD
+"7D7U	",c1nc(c2c(n1)n(c(n2)Br)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N,Kd,100000,0,"8BR	",MOAD
+"3QX8	",C[n+]1cn(c2c1C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)OP(=O)(O)O[P@](=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)n5cnc6c5N=C(NC6=O)N)O)O)O)O,Kd,1370000,0,"GTG	",MOAD
+"4AVV	",C1C[C@@H](N(C1)C(=O)CCCCC(=O)N2CCC[C@@H]2C(=O)O)C(=O)O,Kd,8.8,1,"GHE	",MOAD
+"2A3Y	",CC1(OCC(CO1)OC(=O)NCCNC(=O)OC2COC(OC2)(C)C(=O)O)C(=O)O,ic50,3800,0,"CPJ	",MOAD
+"6W7F	",CS(=O)(=O)c1c2c(cnc(n2cn1)NCc3c(ccc4c3CCO4)F)c5ccc(nc5)C6CC6,ic50,0.2,1,"Q3D	",MOAD
+"6W7G	",Cc1ccc(c(n1)C)c2cnc(n3c2c(nc3)S(=O)(=O)C)NCc4c(ccc5c4CCO5)F,ic50,0.5,1,"Q3A	",MOAD
+"3LL2	",O(CC1C(O)C(OC2C(OC3C(OC4C(O)C(O)C(O)C(CO)O4)C(O)C(O)C(CO)O3)C(O)C(O)C(CO)O2)C(O)C(O)O1)C1C(O)C(OC2C(OC3C(O)C(O)C(O)C(CO)O3)C(O)C(O)C(CO)O2)C(O)C2C(OC3C(O)C(O)C(O)C(CO)O3)[O+]12,Kd,510,1,"MAN MAN MAN MAN MAN MAN MAN MAN	",MOAD
+"5KXE	",CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)NC(=O)C)Oc3ccc(cc3)[N+](=O)[O-])CO)CO)O)O,Kd,5450,0,"6Y2	",MOAD
+"6MFL	",C[C@H]1[C@@H](C(=O)N(O1)CCc2c[nH]cn2)NC(=O)c3cccc(c3O)O,Kd,160,1,"OPV	",MOAD
+"6CS9	",CCCCCCCC(=O)OC[C@H](COP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H]([C@@H]([C@H]1O)OP(=O)(O)O)OP(=O)(O)O)O)O)OC(=O)CCCCCCC,ic50,2200,0,"PIO	",MOAD
+"6TE4	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1N(C(=O)C2[NH2+]CCC2)CCC1)CC(C)C)C)CO)CCCC[NH3+],Kd,24000,0,"PRO PRO LEU ALA SER LYS	",MOAD
+"2XBK	",C[C@@H]1CC=CC=CC=CC=C[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](CC=CC=CC(=O)O1)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O,Kd,4000,0,"XBK	",MOAD
+"6V1E	",CN1C=C(c2ccncc2C1=O)c3cc(c(c(c3)OC)CN(C)C)OC,Kd,121,1,"5SW	",MOAD
+"3UWB	",CCCCC[C@H](CC(=O)NO)C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1CO,ic50,10,1,"BB2	",MOAD
+"6MU7	",COc1cnc(c2c1c(c[nH]2)C(=O)C(=O)N3CCC(CC3)C(C#N)c4ccccc4)c5csc(n5)C(=O)NCCO,Kd,2,1,"JYY	",MOAD
+"6RRP	",c1ccc(cc1)NC(=S)N,ic50,174400,0,"URS	",MOAD
+"6ZPD	",Cc1c(c2c(c(c1O)C)CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C,Kd,14.25,1,"VIV	",MOAD
+"5G0H	",C[C@@H](/C=C(C)/C=C/C(=O)NO)C(=O)c1ccc(cc1)N(C)C,ic50,9.88,1,"E1Z	",MOAD
+"6IE9	",C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,Kd,65300,0,"JN3	",MOAD
+"2CBO	",C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC(=O)O)CCC4=CC(=O)CC[C@]34C,Kd,40150,0,"TH2	",MOAD
+"6X23	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1[NH2+]CCC1)CCC(=O)[O-])CO)CCC(=O)[O-])CO)CCCC[NH3+])C(C)C,ic50,3500,0,"LEU PRO PRO PRO GLU SER GLU SER LYS VAL	",MOAD
+"6IAM	",O=C(NC(C(=O)NC(C(=O)N1C(C=O)CCC1)CCCC[NH3+])C)C([NH3+])CCC(=O)[O-],Ki,207,1,"GLU ALA LYS PRO	",MOAD
+"5BVB	",C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2C[C@H]([C@]4([C@@]3(CC[C@@H]4C5=CC(=O)OC5)O)C)O)O,Kd,498,1,"DOG	",MOAD
+"2PQL	",c1ccc2c(c1)c(c[nH]2)CCN,Kd,53,1,"TSS	",MOAD
+"6MTU	",P(=O)(OCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1[NH2+]CCC1)Cc1nc[nH]c1)C(O)C)CC(=O)N)CCC(=O)[O-])C(O)C)C(=O)NC(C(=O)[O-])CC(C)C)([O-])[O-],Kd,6083,0,"PRO HIS THR ASN GLU THR SEP LEU	",MOAD
+"7BQV	",c1cc2c(cc1O)C(=O)N(C2=O)[C@H]3CCC(=O)NC3=O,Kd,2280,0,"F4U	",MOAD
+"5UDK	",P(=O)(OP(=O)(OCC1C(OP(=O)(OCC2C(OP(=O)(OCC3C(OP(=O)(OCC4C(O)C(O)C(n5c6ncnc(N)c6nc5)O4)[O-])C(O)C(n4c5ncnc(N)c5nc4)O3)[O-])C(O)C(n3c4ncnc(N)c4nc3)O2)[O-])C(O)C(n2c3ncnc(N)c3nc2)O1)[O-])(OP(=O)([O-])[O-])[O-],ic50,500,1,"ATP A   A   A  	",MOAD
+"3TJH	",O=C([O-])C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C1N(C(=O)C([NH3+])CO)CCC1)CC(C)C)CC(=O)[O-])CO)CC(C)C)Cc1c2c([nH]c1)cccc2)Cc1c2c([nH]c1)cccc2)C(CC)C,Kd,3900,0,"SER PRO LEU ASP SER LEU TRP TRP ILE	",MOAD
+"1FM6	",CN(CCOc1ccc(Cc2sc(=O)[nH]c2O)cc1)c1ccccn1,Ki,74,1,"	",BDB
+"7XTA	",NCCc1c[nH]c2ccc(O)cc12,Ki,1049,0,"SRO	",BDB
+"5ZXF	",COc1ccc(C2=NC(C(N2C(=O)N2CCNC(=O)C2)c2ccc(Cl)cc2)c2ccc(Cl)cc2)c(OC(C)C)c1,Ki,36,1,"NUT	",BDB
+"3PSU	",CC(C)CN(CCNCCN(CC(C)C)S(=O)(=O)c1ccc(N)cc1)S(=O)(=O)c1ccc(N)cc1,Ki,900,1,"LJG	",BDB
+"6TA3	",FC(F)(F)c1ccc(cc1)-c1ccc2NC(=O)CCc2c1,Ki,1.7,1,"ZK 	",BDB
+"2YJA	",C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2O,Ki,0.65,1,"EST	",BDB
+"1FAP	",CO[C@@H]1C[C@H](C[C@@H](C)[C@@H]2CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@@H]3CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@H]3C(=O)O2)OC)CC[C@H]1O,Ki,1,1,"RAP	",BDB
+"1NSG	",CCO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@@H](CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C1/C)[C@H](C)C[C@@H]1CC[C@@H](O)[C@@H](C1)OC,Ki,4,1,"RAD	",BDB
+"1EXA	",CC1(C)CCC(C)(C)c2cc(ccc12)[C@@H](O)C(=O)Nc1ccc(cc1F)C(O)=O,Ki,1.5,1,"394	",BDB
+"6DRW	",Nc1nc(Nc2ccc(cc2)S(N)(=O)=O)nn1C(=O)c1c(F)cccc1F,Ki,220000,0,"SKE	",BDB
+"4LV0	",Nc1cccc(c1)B(O)O,Ki,3,1,"APB	",BDB
+"3MLA	",Clc1cccc(NC(=O)CCC(=O)N\N=C\c2c3ccccc3cc3ccccc23)c1,Ki,3,1,"JJZ	",BDB
+"7EJK	",Cc1cc(c(O)c(C)c1CC1=NCCN1)C(C)(C)C,Ki,3.3,1,"J5C	",BDB
+"6VMS	",CC(C)C[C@@H]1N2C(=O)[C@](NC(=O)[C@H]3CN(C)[C@@H]4Cc5c(Br)[nH]c6cccc(C4=C3)c56)(O[C@@]2(O)[C@@H]2CCCN2C1=O)C(C)C,Ki,83,1,"08Y	",BDB
+"7JVQ	",CN1CCc2cccc-3c2[C@H]1Cc1ccc(O)c(O)c-31,Ki,680,1,"OR9	",BDB
+"7LJD	",NCCc1ccc(O)c(O)c1,Ki,2340,0,"LDP	",BDB
+"7CKW	",Oc1ccc(cc1)C1CNCCc2c(Cl)c(O)c(O)cc12,Ki,28,1,"G3C	",BDB
+"6RIG	",NS(=O)(=O)c1ccc(O)cc1,Ki,89,1,"K4N	",BDB
+"6X3X	",CN1c2ccc(Cl)cc2C(=NCC1=O)c1ccccc1,Ki,16.3,1,"DZP	",BDB
+"8DD3	",CCc1c(ncc2[nH]c3cc(OC)c(OC)cc3c12)C(=O)OC,Ki,5.3,1,"R63	",BDB
+"5MZJ	",Cn1c2nc[nH]c2c(=O)n(C)c1=O,Ki,10000,0,"TEP	",BDB
+"4NF5	",N[C@H](CCCP(O)(O)=O)C(O)=O,Ki,350,1,"2JJ	",BDB
+"5MZP	",Cn1cnc2n(C)c(=O)n(C)c(=O)c12,Ki,10000,0,"CFF	",BDB
+"6MBY	",COc1cc(\C=C\C(O)=O)ccc1O,Ki,210000,0,"FER	",BDB
+"1ISS	",CC(N)(C(O)=O)c1ccc(cc1)C(O)=O,Ki,10000,0,"MCG	",BDB
+"7VGY	",COc1ccc2[nH]c(I)c(CCNC(C)=O)c2c1,Ki,0.09,1,"ML2	",BDB
+"3VGA	",Nc1nc(NCCc2ccc(O)cc2)nc2nc(nn12)-c1ccco1,Ki,2041.74,0,"ZMA	",BDB
+"8EF5	",CCC(=O)N(C1CCN(CCc2ccccc2)CC1)c1ccccc1,Ki,1.9,1,"7V7	",BDB
+"8EF6	",CN1CC[C@@]23[C@H]4Oc5c2c(C[C@@H]1[C@@H]3C=C[C@@H]4O)ccc5O,Ki,2,1,"MOI	",BDB
+"6HIS	",CN1C2CCC1CC(C2)OC(=O)c1c[nH]c2ccccc12,Ki,1.99,1,"TKT	",BDB
